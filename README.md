@@ -1,1 +1,2 @@
-# Proyecto-M-dulo-2
+En general los dos programas estuvieron faciles, el de la longitud de la palabra no representó dificultad, solo eran un par de condicionales, el segundo yo sentí un poco de mayor complejidad pero era conseguible, lo que no pude plasmar era verificar que los numeros para x y y fueran de tipo numerico, ya que marca error cuando mandas otro valor que no sea un numero entero, intenté con la funcion. isinteger(), y con type(x)== int, pero marcaba errores cuando era 0 o cuando era un numero negativo, al final no lo logré resolver, queda como un area de mejora.
+El camp me esta pareciendo genial, estoy aprendiendo mucho.
